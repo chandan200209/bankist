@@ -43,7 +43,7 @@ Open index.html in your browser — or use a static server:
 
 ### If you have Python 3
 python -m http.server 8000
-### Then open http://localhost:8000
+Then open http://localhost:8000
 
 ### For VS Code
 Also, you can open live-server in the terminal
