@@ -5,7 +5,7 @@ A small, responsive frontend prototype that simulates a bank website — built w
 
 Think of it as a fintech toy you can actually show stakeholders: tiny footprint, big learnings.
 
-🚀 Features
+### 🚀 Features
 
 Sign in / Sign out (simple PIN-based auth for demo purposes)
 
@@ -21,7 +21,7 @@ Change locale to see localized date/currency formats
 
 Clean, modular code — easy to extend into a real app or attach APIs
 
-🧩 Tech stack
+### 🧩 Tech stack
 
 HTML5
 
@@ -31,7 +31,7 @@ Vanilla JavaScript (ES6+)
 
 No build step required — pure static site
 
-🛠️ Getting started (run locally)
+### 🛠️ Getting started (run locally)
 
 Clone the repo:
 
@@ -41,16 +41,16 @@ cd <repo-folder>
 
 Open index.html in your browser — or use a static server:
 
-# If you have Python 3
+### If you have Python 3
 python -m http.server 8000
-# Then open http://localhost:8000
+### Then open http://localhost:8000
 
-# For VS Code
+### For VS Code
 Also, you can open live-server in the terminal
 
 Enjoy the demo flows.
 
-🔐 Demo credentials
+### 🔐 Demo credentials
 
 Use these demo accounts to log in and test all functionality.
 
@@ -62,7 +62,7 @@ PIN (password): 2222
 
 These are demo credentials only — do not use in production. The app uses client-side demo auth for learning and UI exploration.
 
-✅ How to use
+### ✅ How to use
 
 Open the app and log in with one of the demo accounts above.
 
@@ -80,7 +80,7 @@ Fill loan amount, submit the request.
 
 Change the locale setting to observe date/time and currency formatting for different regions.
 
-⏱️ Timers & Session Handling
+### ⏱️ Timers & Session Handling
 
 Session timer: automatic logout after inactivity (demo value configurable in code).
 
